@@ -10,9 +10,9 @@
   - PHP 7.4 or higher
 
 ## Installation
-  1 - Download the plugin from the GitHub repository.
-  2 - Upload the plugin to the /wp-content/plugins/ directory of your WordPress website.
-  3 - Activate the plugin from the WordPress plugins page.
+  - Download the plugin from the GitHub repository.
+  - Upload the plugin to the /wp-content/plugins/ directory of your WordPress website.
+  - Activate the plugin from the WordPress plugins page.
 
 ## Usage
   To use the plugin, simply add a product to your cart and checkout. The plugin will automatically process the payment and generate an order.
