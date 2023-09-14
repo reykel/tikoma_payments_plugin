@@ -6,8 +6,8 @@
   - Securely transactional payment information
 
 ## Requirements
-### - WooCommerce 5.0 or higher
-### - PHP 7.4 or higher
+  - WooCommerce 5.0 or higher
+  - PHP 7.4 or higher
 
 ## Installation
   1- Download the plugin from the GitHub repository.
